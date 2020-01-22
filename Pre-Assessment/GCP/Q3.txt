@@ -1,0 +1,12 @@
+Q3)  Creating a bucket in GCP:
+•	Open the cloud storage viewer in google cloud console.
+•	Click on create bucket to open bucket creation form.
+•	Enter the necessary details for each step and click on continue.
+•	Select the standard for the storage class and the location where you want to launch it.
+•	Click create.
+
+Copying files using gsutil:
+
+•	Install Google Cloud SDK on your local system and use the following command.
+•	Use gcloud init to login into you Gcloud account and select the project. 
+•	Use gsutil cp local-location/filename gs://bucketname/  to copy the required files from local system onto the storage bucket of your cloud.

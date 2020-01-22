@@ -1,0 +1,10 @@
+Q3) a) Login to your aws console.
+b) In the top left corner click on services, under compute select ec2.
+c) Scroll down the page and select Launch Instance.
+d) Select an AMI( Linux AMI is eligible for free tier).
+e) Choose the instance type - t2.micro is eligible for free tier.
+f) Click on configure instance to set VPC and assign IAM role
+g) Choose the preferred boot volume.
+h) Configure the security group or create a new one.
+i) Select an existing key pair or create a new one(.ppk), Click on
+review instance and click launch.

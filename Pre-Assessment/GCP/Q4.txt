@@ -1,0 +1,6 @@
+Q4) 
+•	Go to the top left corner of your Google Cloud home page, click on the triple bar icon ≡ and select Compute Engine ->VM instance and click Create.
+•	Enter whatever Name you want in the name field and select the region where the you want to launch it
+•	Select the default machine type or customize it to the requirements and select the boot disk.
+•	Finally under the security tab there will be a SSH key field and generate a public and private key pair.
+•	Install putty on your system and head to the SSH-> AUTH and browse for the private key that would have been downloaded when the VM instance was launched, load the network using your public ip address which can be seen in the Instance properties.
