@@ -1,0 +1,5 @@
+Q1)  grep  –o   –i   text  example.txt | -l
+Q2) find . -type f  -name “*.txt”
+Q3) 
+Q4) sed –i ‘s/originalword/newword/g’   filename.txt
+Q5) sudo find  /home  -name  “filename.extension”

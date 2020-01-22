@@ -1,0 +1,3 @@
+Q2)  
+i) JSON policy which provides ec2 access to a user or a group.
+ii) JSON policy which denies ec2 access to a user or a group

@@ -1,0 +1,8 @@
+Q5) 1) In the VPC dashvboard select your VPCs and click on create VPC.
+2) Enter the VPC CIDR details and click on create.
+3) In the dashboard select subnets and click on create subnet.
+4) Assign name tag as public, select the vpc name that you created above and assign CIDR details.
+5) Repeat the same process with private subnet and change the CIDR details.
+6) Head to Internet Gateway in dashboard and select Create internet gateway, assign it a name.
+7) Right click on the created gateway and click on attach to vpc and map it to public subnet.
+8) A vpc with public and private subnets is now created
